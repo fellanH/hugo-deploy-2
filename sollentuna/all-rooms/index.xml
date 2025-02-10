@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All Rooms on Ett Smart</title>
-    <link>https://www.ettsmart.se/sollentuna/all-rooms/</link>
+    <link>https://hugo-deploy-2.vercel.app/sollentuna/all-rooms/</link>
     <description>Recent content in All Rooms on Ett Smart</description>
     <generator>Hugo</generator>
     <language>sv</language>
     <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.ettsmart.se/sollentuna/all-rooms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hugo-deploy-2.vercel.app/sollentuna/all-rooms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apartment</title>
-      <link>https://www.ettsmart.se/sollentuna/all-rooms/apartment/</link>
+      <link>https://hugo-deploy-2.vercel.app/sollentuna/all-rooms/apartment/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.ettsmart.se/sollentuna/all-rooms/apartment/</guid>
+      <guid>https://hugo-deploy-2.vercel.app/sollentuna/all-rooms/apartment/</guid>
       <description></description>
     </item>
     <item>
       <title>Studio</title>
-      <link>https://www.ettsmart.se/sollentuna/all-rooms/studio/</link>
+      <link>https://hugo-deploy-2.vercel.app/sollentuna/all-rooms/studio/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.ettsmart.se/sollentuna/all-rooms/studio/</guid>
+      <guid>https://hugo-deploy-2.vercel.app/sollentuna/all-rooms/studio/</guid>
       <description></description>
     </item>
     <item>
       <title>StudioExtra</title>
-      <link>https://www.ettsmart.se/sollentuna/all-rooms/studio-extra/</link>
+      <link>https://hugo-deploy-2.vercel.app/sollentuna/all-rooms/studio-extra/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.ettsmart.se/sollentuna/all-rooms/studio-extra/</guid>
+      <guid>https://hugo-deploy-2.vercel.app/sollentuna/all-rooms/studio-extra/</guid>
       <description></description>
     </item>
   </channel>

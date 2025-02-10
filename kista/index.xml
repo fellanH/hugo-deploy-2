@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>STHLM-Hotel on Ett Smart</title>
-    <link>https://www.ettsmart.se/kista/</link>
+    <link>https://hugo-deploy-2.vercel.app/kista/</link>
     <description>Recent content in STHLM-Hotel on Ett Smart</description>
     <generator>Hugo</generator>
     <language>sv</language>
     <lastBuildDate>Mon, 10 Feb 2025 07:32:12 +0100</lastBuildDate>
-    <atom:link href="https://www.ettsmart.se/kista/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hugo-deploy-2.vercel.app/kista/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kista Contact</title>
-      <link>https://www.ettsmart.se/kista/contact/</link>
+      <link>https://hugo-deploy-2.vercel.app/kista/contact/</link>
       <pubDate>Mon, 10 Feb 2025 07:32:12 +0100</pubDate>
-      <guid>https://www.ettsmart.se/kista/contact/</guid>
+      <guid>https://hugo-deploy-2.vercel.app/kista/contact/</guid>
       <description>&lt;section id=&#34;contact&#34; class=&#34;elements-title space--xxs text-center border-bottom-none&#34;&gt;&#xA;    &lt;div class=&#34;container&#34;&gt;&#xA;        &lt;div class=&#34;row&#34;&gt;&#xA;            &lt;div class=&#34;col-md-10 col-lg-8&#34;&gt;&#xA;                &lt;h1&gt;&#xA;                    &lt;span class=&#34;futura-book-logo-light&#34;&gt;Contact&lt;/span&gt;&lt;span class=&#34;futura-bold&#34;&gt;Contact&lt;/span&gt;&#xA;                &lt;/h1&gt;&#xA;            &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&lt;section class=&#34;switchable feature-large switchable--switch&#34;&gt;&#xA;    &lt;div class=&#34;container-small&#34;&gt;&#xA;        &lt;script charset=&#34;utf-8&#34; type=&#34;text/javascript&#34; src=&#34;https://js-eu1.hsforms.net/forms/embed/v2.js&#34;&gt;&lt;/script&gt;&#xA;        &lt;script&gt;&#xA;            hbspt.forms.create({&#xA;                portalId: &#34;145564985&#34;,&#xA;                formId: &#34;bf69216e-170e-40fb-8b8a-110d4e6a7711&#34;&#xA;            });&#xA;        &lt;/script&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/section&gt;</description>
     </item>
     <item>
       <title>Kista FAQ</title>
-      <link>https://www.ettsmart.se/kista/faq/</link>
+      <link>https://hugo-deploy-2.vercel.app/kista/faq/</link>
       <pubDate>Mon, 10 Feb 2025 07:31:53 +0100</pubDate>
-      <guid>https://www.ettsmart.se/kista/faq/</guid>
+      <guid>https://hugo-deploy-2.vercel.app/kista/faq/</guid>
       <description>&lt;section class=&#34;space--xxs&#34;&gt;&#xA;    &lt;div class=&#34;container home-container&#34;&gt;&#xA;        &lt;h2&gt;&#xA;            &lt;span class=&#34;futura-book-logo&#34;&gt;FAQ&lt;/span&gt;&lt;span class=&#34;futura-bold&#34;&gt; FAQ&lt;/span&gt;&#xA;        &lt;/h2&gt;&#xA;        &lt;div class=&#34;row&#34;&gt;&#xA;            &lt;div class=&#34;col-lg-4&#34;&gt;&#xA;                &lt;div class=&#34;text-block&#34;&gt;&#xA;                    &lt;h4&gt;Vanliga Frågor&lt;/h4&gt;&#xA;                &lt;/div&gt;&#xA;            &lt;/div&gt;&#xA;            &lt;div class=&#34;col-lg-4&#34;&gt;&#xA;                &lt;div class=&#34;text-block&#34;&gt;&#xA;                    &lt;h4&gt;Hur går bokningen till?&lt;/h4&gt;&#xA;                    &lt;p&gt;&#xA;                        1. Boka och betala&lt;br&gt;&#xA;                        2. Få Rumskoden via e-post och SMS &lt;br&gt;&#xA;                        3. Anländ när det passar!&#xA;                    &lt;/p&gt;&#xA;                &lt;/div&gt;&#xA;                &lt;div class=&#34;text-block&#34;&gt;&#xA;                    &lt;h4&gt;Vilken utrustning finns på rummen?&lt;/h4&gt;&#xA;                    &lt;p&gt;&#xA;                        TV, trådlöst internet, WC och dusch. Vattenkokare, te och&#xA;                        kaffe. I studiorummen finns en trinette med diskho, kylskåp&#xA;                        och mikrovågsugn. Där finns även glas, tallrikar och bestick&#xA;                        för två personer.&#xA;                    &lt;/p&gt;&#xA;                &lt;/div&gt;&#xA;            &lt;/div&gt;&#xA;            &lt;div class=&#34;col-lg-4&#34;&gt;&#xA;                &lt;div class=&#34;text-block&#34;&gt;&#xA;                    &lt;h4&gt;Vart vänder jag mig om jag har frågor?&lt;/h4&gt;&#xA;                    &lt;p&gt;&#xA;                        Du kan normalt kontakta personal på plats vardagar dagtid fram&#xA;                        till 14.30. Kundtjänst har öppet vardagar kontorstid och nås&#xA;                        på info@ettsmart.se eller 08 546 308 10. Vi har även en&#xA;                        hotline dygnet runt för våra boende-gäster på 08 350 260.&#xA;                    &lt;/p&gt;</description>
     </item>
   </channel>
